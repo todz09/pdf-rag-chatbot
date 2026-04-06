@@ -71,7 +71,7 @@ pdf-rag-chatbot/
 ### 1. Clone and create virtual environment
 
 ```bash
-git clone https://github.com/Vedant-1404/pdf-rag-chatbot.git
+git clone https://github.com/todz09/pdf-rag-chatbot.git
 cd pdf-rag-chatbot
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate

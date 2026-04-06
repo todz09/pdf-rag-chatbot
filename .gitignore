@@ -1,0 +1,4 @@
+.env
+data/
+*.DS_Store
+pdf_rag_chatbot.egg-info/
